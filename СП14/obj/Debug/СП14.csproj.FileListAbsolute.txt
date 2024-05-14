@@ -1,0 +1,11 @@
+C:\Users\CoFFey\source\repos\СП14\СП14\bin\Debug\СП14.exe.config
+C:\Users\CoFFey\source\repos\СП14\СП14\bin\Debug\СП14.exe
+C:\Users\CoFFey\source\repos\СП14\СП14\bin\Debug\СП14.pdb
+C:\Users\CoFFey\source\repos\СП14\СП14\obj\Debug\СП14.csproj.AssemblyReference.cache
+C:\Users\CoFFey\source\repos\СП14\СП14\obj\Debug\СП14.csproj.SuggestedBindingRedirects.cache
+C:\Users\CoFFey\source\repos\СП14\СП14\obj\Debug\СП14.Form1.resources
+C:\Users\CoFFey\source\repos\СП14\СП14\obj\Debug\СП14.Properties.Resources.resources
+C:\Users\CoFFey\source\repos\СП14\СП14\obj\Debug\СП14.csproj.GenerateResource.cache
+C:\Users\CoFFey\source\repos\СП14\СП14\obj\Debug\СП14.csproj.CoreCompileInputs.cache
+C:\Users\CoFFey\source\repos\СП14\СП14\obj\Debug\СП14.exe
+C:\Users\CoFFey\source\repos\СП14\СП14\obj\Debug\СП14.pdb
